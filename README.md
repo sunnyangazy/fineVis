@@ -1,2 +1,2 @@
 # fineVis
-a visual sysytem for fine-tune
+a visual system for fine-tune
